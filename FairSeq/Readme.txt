@@ -1,0 +1,1 @@
+Create Notebook on GG colab -> upload file prepare-iwslt14.sh -> Run
